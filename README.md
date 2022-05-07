@@ -1,2 +1,6 @@
 # CountryCapitalQuiz
-# Create a program that contains a dictionary containing 20 countries as keys and their capitals as values. ( Use the Internet if needed) # The program is to randomly quiz the user by displaying a country's name and ask user to enter the country's capital.  # The program is to verify user's entry , if correct , program is to congratulate user and display another countries name. Use sentinel to allow the user to exit the program if they choose to. #  The program should keep count of  the number of correct and incorrect responses and display results when user chooses to stop playing # 9/22/21 # CTI-110 M4Pro – Country Capitals # Michel Jurado  #create a dictionary with 20 countries #import random #output the country name and wait for capital as input #if input is correct congradulate user and display another country. #use a sentinel to allow user to exit program if they choose #add total of number correct and incorrect and display once user stops.
+#Creates a country capital quiz using a dictionary in python.!
+
+
+![Screenshot 2022-05-07 155001](https://user-images.githubusercontent.com/104876738/167269650-f5358b78-3324-4f09-83fb-7dd751c1c3dd.png)
+
